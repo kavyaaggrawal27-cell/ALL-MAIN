@@ -1,30 +1,26 @@
 # Amazon Clone
 
-Responsive Amazon India homepage clone banaya HTML & CSS seekhte hue.
+A responsive Amazon.in homepage clone built while learning HTML and CSS.
 
-## Features
-- Responsive Navbar with Search
-- Delivery Address Section
+## 📸 Preview
+![Amazon Clone Preview](amazon-preview.png)  
+*(Yahan apna screenshot daal dena baad mein)*
+
+## ✨ Features
+
+- Fully Responsive Design (Desktop + Mobile)
+- Modern Navbar with Search Bar
+- Delivery Location Section
 - Hero Banner
-- Multiple Product Sections (Appliances, Electronics, Smartphones, Fashion)
+- Multiple Product Sections (Appliances, Electronics, Fashion etc.)
+- Footer with Links
 - Hover Effects
-- Fully Responsive (Mobile + Desktop)
 
-## Technologies Used
+## 🛠️ Technologies Used
+
 - HTML5
-- CSS3 (Flexbox & Grid)
+- CSS3
+- Flexbox
 - Font Awesome Icons
 
-## Author
-**Kavya Aggrawal**
-
----
-
-**Ab yeh karo:**
-
-- Upar wala pura text copy karke GitHub ke box mein paste kar do.
-- Phir "Commit changes" pe click kar dena.
-
-Kar ke mujhe batao ki ho gaya ya koi problem aa rahi hai. 
-
-**Paste kar do abhi!**
+## 📂 Project Structure
