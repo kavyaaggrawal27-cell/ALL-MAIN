@@ -23,4 +23,4 @@ A responsive Amazon.in homepage clone built while learning HTML and CSS.
 - Flexbox
 - Font Awesome Icons
 
-## 📂 Project Structure
+## 📂 Project Structure njnj
